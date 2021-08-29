@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "kiosk",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
